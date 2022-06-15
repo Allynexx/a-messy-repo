@@ -1,0 +1,7 @@
+body {
+    position: relative;
+    width: 1920px;
+    height: 2860px;
+    background: #0B1D26;
+    box-shadow: 0px 0px 100px rgba(0, 0, 0, 0.2);
+}
