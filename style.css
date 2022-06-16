@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,300,300italic|Quicksand:400,600|Lato:400");
+
 :root {
     --black: rgba(0, 0, 0, 1);
     --bg: rgba(11, 29, 38, 1);
@@ -17,8 +19,6 @@
     --font-family-quicksand: "Quicksand";
     --font-family-roboto: "Roboto";
 }
-
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,300,300italic|Quicksand:400,600|Lato:400");
 
 @font-face {
     font-family: "Gilroy-Medium";
