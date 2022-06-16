@@ -162,7 +162,11 @@ footer {
     margin-top: 16px;
     min-height: 32px;
     white-space: nowrap;
-    font-family: "gilroy-medium-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-medium);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    font-style: normal;
 }
 
 .the-team {
