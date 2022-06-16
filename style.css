@@ -187,7 +187,11 @@ footer {
     line-height: 32px;
     min-height: 32px;
     white-space: nowrap;
-    font-family: "gilroy-bold-grandis-24px";
+    color: var(--accent);
+    font-family: var(--font-family-gilroy-bold);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    font-style: normal;
 }
 
 .jobs {
@@ -196,7 +200,11 @@ footer {
     margin-top: 16px;
     min-height: 32px;
     white-space: nowrap;
-    font-family: "gilroy-medium-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-medium);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    font-style: normal;
 }
 
 .links {
@@ -214,7 +222,11 @@ footer {
     margin-top: 24px;
     min-height: 32px;
     white-space: nowrap;
-    font-family: "gilroy-medium-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-medium);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    font-style: normal;
 }
 
 .contributors-writers {
@@ -223,7 +235,11 @@ footer {
     margin-top: 16px;
     min-height: 32px;
     white-space: nowrap;
-    font-family: "gilroy-medium-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-medium);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    font-style: normal;
 }
 
 .write-for-us {
@@ -232,7 +248,11 @@ footer {
     margin-top: 16px;
     min-height: 32px;
     white-space: nowrap;
-    font-family: "gilroy-medium-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-medium);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    font-style: normal;
 }
 
 .privacy-policy {
@@ -241,7 +261,11 @@ footer {
     margin-top: 16px;
     min-height: 32px;
     white-space: nowrap;
-    font-family: "gilroy-medium-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-medium);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    font-style: normal;
 }
 
 .contact-us {
@@ -250,7 +274,11 @@ footer {
     margin-top: 16px;
     min-height: 32px;
     white-space: nowrap;
-    font-family: "gilroy-medium-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-medium);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    font-style: normal;
 }
 
 .content-2 {
@@ -305,7 +333,11 @@ footer {
     margin-left: 24px;
     min-height: 21px;
     min-width: 291px;
-    font-family: "roboto-normal-grandis-18px";
+    color: var(--accent);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
 }
 
 .deep-down-i-adore-t {
@@ -350,7 +382,11 @@ footer {
     letter-spacing: 0;
     min-height: 21px;
     min-width: 37px;
-    font-family:  "roboto-normal-grandis-18px";
+    color: var(--accent);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
 }
 
 .equipment-1 {
@@ -378,7 +414,11 @@ footer {
     margin-left: 739px;
     min-height: 22px;
     min-width: 90px;
-    font-family: "gilroy-bold-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-bold);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    font-style: normal;
 }
 
 .about-us {
@@ -387,7 +427,11 @@ footer {
     margin-left: 40px;
     min-height: 22px;
     min-width: 75px;
-    font-family: "gilroy-bold-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-bold);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    font-style: normal;
 }
 
 .blog {
@@ -396,7 +440,11 @@ footer {
     margin-left: 40px;
     min-height: 22px;
     min-width: 38px;
-    font-family: "gilroy-bold-white-18px";
+    color: var(--wei);
+    font-family: var(--font-family-gilroy-bold);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    font-style: normal;
 }
 
 .account {
@@ -458,7 +506,11 @@ footer {
     margin-left: 32px;
     min-height: 21px;
     min-width: 406px;
-    font-family: "roboto-normal-grandis-18px";
+    color: var(--accent);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
 }
 
 .rectangle-21 {
