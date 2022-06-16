@@ -18,38 +18,6 @@
     --font-family-roboto: "Roboto";
 }
 
-.gilroy-medium-white-18px {
-    color: var(--wei);
-    font-family: var(--font-family-gilroy-medium);
-    font-size: var(--font-size-m);
-    font-weight: 500;
-    font-style: normal;
-}
-
-.roboto-normal-grandis-18px {
-    color: var(--accent);
-    font-family: var(--font-family-roboto);
-    font-size: var(--font-size-m);
-    font-weight: 400;
-    font-style: normal;
-}
-
-.gilroy-bold-white-18px {
-    color: var(--wei);
-    font-family: var(--font-family-gilroy-bold);
-    font-size: var(--font-size-m);
-    font-weight: 700;
-    font-style: normal;
-}
-
-.gilroy-bold-grandis-24px {
-    color: var(--accent);
-    font-family: var(--font-family-gilroy-bold);
-    font-size: var(--font-size-l);
-    font-weight: 700;
-    font-style: normal;
-}
-
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,300,300italic|Quicksand:400,600|Lato:400");
 
 @font-face {
