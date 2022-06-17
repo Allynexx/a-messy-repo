@@ -20,6 +20,12 @@
     --font-family-roboto: "Roboto";
 }
 
+@media (max-width: 1366px) {
+    .home {
+        width: 1366px;
+    }
+}
+
 @font-face {
     font-family: "Gilroy-Medium";
     font-style: normal;
