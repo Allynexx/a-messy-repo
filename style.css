@@ -20,7 +20,7 @@
     --font-family-roboto: "Roboto";
 }
 
-@media (max-width: 1366px) {
+@media screen and (max-width: 1366px) {
     .home {
         width: 1366px;
     }
